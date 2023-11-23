@@ -1,0 +1,2352 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.shop--gEm {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.shop--gEm .header-bMj {
+  box-sizing: border-box;
+  padding: 2.9rem 3.2rem;
+  width: 100%;
+  height: 10rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.shop--gEm .header-bMj .group-168-ix9 {
+  width: 123.5rem;
+  height: 100%;
+  position: relative;
+}
+.shop--gEm .header-bMj .group-168-ix9 .group-2-fsP {
+  width: 43rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 47.3rem;
+  top: 0.9rem;
+  display: flex;
+  align-items: center;
+}
+.shop--gEm .header-bMj .group-168-ix9 .group-2-fsP .home-bFF {
+  margin-right: 7.5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .header-bMj .group-168-ix9 .group-2-fsP .service-uWq {
+  margin-right: 5.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .header-bMj .group-168-ix9 .group-2-fsP .about-3d3 {
+  margin-right: 7.5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .header-bMj .group-168-ix9 .group-2-fsP .contact-BUM {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .header-bMj .group-168-ix9 .group-1-XHK {
+  box-sizing: border-box;
+  padding-right: 0.2333rem;
+  width: 123.5rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.shop--gEm .header-bMj .group-168-ix9 .group-1-XHK .frame-168-SfB {
+  margin-right: 90.7333rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.shop--gEm .header-bMj .group-168-ix9 .group-1-XHK .frame-168-SfB .meubel-houselogos-05-zAu {
+  margin: 0rem 0.5rem 0.1rem 0rem;
+  width: 5rem;
+  height: 3.2rem;
+  position: relative;
+  background-size: 154% 240.625%;
+  background-position: -1.3rem -2.2rem;
+  background-image: url('../assets/meubel-houselogos-05-mVB.png');
+  flex-shrink: 0;
+}
+.shop--gEm .header-bMj .group-168-ix9 .group-1-XHK .frame-168-SfB .skinclinic-dzZ {
+  font-size: 3.4rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .header-bMj .group-168-ix9 .group-1-XHK .akar-icons-search-y2q {
+  margin: 0rem 5.083rem 0.117rem 0rem;
+  width: 2.2167rem;
+  height: 2.2167rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.shop--gEm .header-bMj .group-168-ix9 .group-1-XHK .akar-icons-heart-se1 {
+  margin-bottom: 0.0194rem;
+  width: 2.3333rem;
+  height: 2.0806rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.shop--gEm .group-78-Q89 {
+  margin-bottom: 0.1rem;
+  box-sizing: border-box;
+  padding: 12.1rem 60.6rem 9.7rem 65.8rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  filter: blur(0.3rem);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-1-bg-aeD.png');
+  flex-shrink: 0;
+}
+.shop--gEm .group-78-Q89 .service-7oF {
+  margin-bottom: 0.2rem;
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .group-78-Q89 .group-56-4Ch {
+  margin-right: 3.4rem;
+  display: flex;
+  column-gap: 1.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.shop--gEm .group-78-Q89 .group-56-4Ch .home-1Nq {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .group-78-Q89 .group-56-4Ch .dashicons-arrow-down-alt2-krD {
+  width: 0.8rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.shop--gEm .group-78-Q89 .group-56-4Ch .service-JMw {
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .group-63-Cy7 {
+  margin-bottom: 4.6rem;
+  box-sizing: border-box;
+  padding: 2.2rem 10rem 2.3rem 9.8rem;
+  width: 100%;
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  background-color: #f9f1e7;
+  flex-shrink: 0;
+}
+.shop--gEm .group-63-Cy7 .group-57-7KP {
+  margin: 1.3rem 2.883rem 1.2rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.2976rem;
+  height: calc(100% - 2.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.shop--gEm .group-63-Cy7 .group-57-7KP .system-uicons-filtering-S6m {
+  margin: 0.019rem 1.498rem 0rem 0rem;
+  width: 1.9048rem;
+  height: 1.6667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.shop--gEm .group-63-Cy7 .group-57-7KP .filter-kt9 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .group-63-Cy7 .ci-grid-big-round-6x1 {
+  margin: 0.1rem 3.133rem 0rem 0rem;
+  width: 1.6333rem;
+  height: 1.6333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.shop--gEm .group-63-Cy7 .bi-view-list-dh3 {
+  margin: 0.1rem 3.15rem 0rem 0rem;
+  width: 2.1rem;
+  height: 1.95rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.shop--gEm .group-63-Cy7 .group-62-kFs {
+  margin: 0.9rem 34.7rem 0.9rem 0rem;
+  box-sizing: border-box;
+  padding: 0.7rem 0rem 0.6rem 3.4rem;
+  height: calc(100% - 1.8rem);
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border-left: solid 0.2rem #9f9f9f;
+  flex-shrink: 0;
+}
+.shop--gEm .group-63-Cy7 .group-60-Bc5 {
+  margin-right: 2.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.shop--gEm .group-63-Cy7 .group-60-Bc5 .show-XR3 {
+  margin: 0rem 1.7rem 0.1rem 0rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .group-63-Cy7 .group-60-Bc5 .group-58-eVf {
+  width: 5.5rem;
+  height: 100%;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #9f9f9f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.shop--gEm .group-63-Cy7 .group-61-Mey {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.shop--gEm .group-63-Cy7 .group-61-Mey .short-by-X3f {
+  margin: 0rem 1.7rem 0.1rem 0rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .group-63-Cy7 .group-61-Mey .group-59-qq3 {
+  width: 18.8rem;
+  height: 100%;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #9f9f9f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.shop--gEm .group-83-Lmo {
+  width: 100%;
+  height: 205.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.shop--gEm .group-83-Lmo .rectangle-6-tYR {
+  width: 144rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku {
+  width: 123.8rem;
+  height: 203.4rem;
+  position: absolute;
+  left: 9.9rem;
+  top: 1.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX {
+  margin-bottom: 4rem;
+  width: 100%;
+  height: 44.6rem;
+  display: flex;
+  column-gap: 3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-gz5 {
+  width: 28.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-gz5 .bg-F1b {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-gz5 .product-name-Bfw {
+  width: 13.8rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-gz5 .product-name-Bfw .product-name-vNd {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-gz5 .product-name-Bfw .sort-description-GBb {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-gz5 .images-Qob {
+  width: 28.7rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-gz5 .images-Qob .image-8-MTw {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-gz5 .images-Qob .image-7-Va9 {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-gz5 .images-Qob .image-6-dgM {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-gz5 .images-Qob .image-5-Bhs {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-gz5 .images-Qob .image-4-L4y {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-gz5 .images-Qob .image-3-UBB {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-gz5 .images-Qob .image-2-1gu {
+  width: 28.4rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-gz5 .images-Qob .image-1-x6M {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-HeR {
+  width: 28.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-HeR .bg-REq {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-HeR .product-name-ACR {
+  width: 13.8rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-HeR .product-name-ACR .product-name-VEh {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-HeR .product-name-ACR .sort-description-RPF {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-HeR .images-DK7 {
+  width: 28.7rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-HeR .images-DK7 .image-8-Z85 {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-HeR .images-DK7 .image-7-uBw {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-HeR .images-DK7 .image-6-r7B {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-HeR .images-DK7 .image-5-zUH {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-HeR .images-DK7 .image-4-jwf {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-HeR .images-DK7 .image-3-tZf {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-HeR .images-DK7 .image-2-e33 {
+  width: 28.4rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-ahP {
+  width: 28.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-ahP .bg-j4V {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-ahP .product-name-sgV {
+  width: 12.1rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-ahP .product-name-sgV .product-name-c8H {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-ahP .product-name-sgV .sort-description-Lpy {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-ahP .images-tLh {
+  width: 28.7rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-ahP .images-tLh .image-8-E9f {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-ahP .images-tLh .image-7-nBB {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-ahP .images-tLh .image-6-XeZ {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-ahP .images-tLh .image-5-Gs3 {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-ahP .images-tLh .image-4-cg1 {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-ahP .images-tLh .image-3-N9P {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-Joj {
+  width: 28.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-Joj .bg-rqF {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-Joj .product-name-c3j {
+  width: 22.4rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-Joj .product-name-c3j .product-name-LVX {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-Joj .product-name-c3j .sort-description-skM {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-Joj .images-RWy {
+  width: 28.7rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-7-kqX .featured-products-Joj .images-RWy .image-4-y2h {
+  width: 28.5rem;
+  height: 30.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX {
+  margin-bottom: 4rem;
+  width: 100%;
+  height: 44.6rem;
+  display: flex;
+  column-gap: 3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-3YM {
+  width: 28.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-3YM .bg-Ps7 {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-3YM .product-name-LXT {
+  width: 13.8rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-3YM .product-name-LXT .product-name-g5X {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-3YM .product-name-LXT .sort-description-DLM {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-3YM .images-xHw {
+  width: 28.7rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-3YM .images-xHw .image-8-thP {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-3YM .images-xHw .image-7-r8R {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-3YM .images-xHw .image-6-bbo {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-3YM .images-xHw .image-5-LpH {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-3YM .images-xHw .image-4-gt9 {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-3YM .images-xHw .image-3-dHb {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-3YM .images-xHw .image-2-yMT {
+  width: 28.4rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-3YM .images-xHw .image-1-orH {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-kWd {
+  width: 28.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-kWd .bg-u8d {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-kWd .product-name-3kd {
+  width: 13.8rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-kWd .product-name-3kd .product-name-bGM {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-kWd .product-name-3kd .sort-description-LDw {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-kWd .images-tFT {
+  width: 28.7rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-kWd .images-tFT .image-8-bvZ {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-kWd .images-tFT .image-7-Yqo {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-kWd .images-tFT .image-6-6MX {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-kWd .images-tFT .image-5-SgH {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-kWd .images-tFT .image-4-o13 {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-kWd .images-tFT .image-3-94u {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-kWd .images-tFT .image-2-g4q {
+  width: 28.4rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-177 {
+  width: 28.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-177 .bg-xHF {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-177 .product-name-W3s {
+  width: 12.1rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-177 .product-name-W3s .product-name-qbw {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-177 .product-name-W3s .sort-description-Bfo {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-177 .images-Xjf {
+  width: 28.7rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-177 .images-Xjf .image-8-g6m {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-177 .images-Xjf .image-7-Rq3 {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-177 .images-Xjf .image-6-ksK {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-177 .images-Xjf .image-5-uER {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-177 .images-Xjf .image-4-T13 {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-177 .images-Xjf .image-3-PfP {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-Y2V {
+  width: 28.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-Y2V .bg-HVs {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-Y2V .product-name-Eg1 {
+  width: 22.4rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-Y2V .product-name-Eg1 .product-name-B5T {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-Y2V .product-name-Eg1 .sort-description-KBf {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-Y2V .images-fFX {
+  width: 28.7rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-8-WHX .featured-products-Y2V .images-fFX .image-4-CmF {
+  width: 28.5rem;
+  height: 30.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV {
+  margin-bottom: 4rem;
+  width: 100%;
+  height: 44.6rem;
+  display: flex;
+  column-gap: 3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-Uyf {
+  width: 28.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-Uyf .bg-d5s {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-Uyf .product-name-Abb {
+  width: 13.8rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-Uyf .product-name-Abb .product-name-hrR {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-Uyf .product-name-Abb .sort-description-rDX {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-Uyf .images-nss {
+  width: 28.7rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-Uyf .images-nss .image-8-8Rw {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-Uyf .images-nss .image-7-56H {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-Uyf .images-nss .image-6-pZf {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-Uyf .images-nss .image-5-aHw {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-Uyf .images-nss .image-4-iuw {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-Uyf .images-nss .image-3-GwT {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-Uyf .images-nss .image-2-R3f {
+  width: 28.4rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-Uyf .images-nss .image-1-Mxu {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-ujX {
+  width: 28.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-ujX .bg-ruf {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-ujX .product-name-1Gm {
+  width: 13.8rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-ujX .product-name-1Gm .product-name-kEM {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-ujX .product-name-1Gm .sort-description-6JD {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-ujX .images-SN5 {
+  width: 28.7rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-ujX .images-SN5 .image-8-aUH {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-ujX .images-SN5 .image-7-8kh {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-ujX .images-SN5 .image-6-5vq {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-ujX .images-SN5 .image-5-qQD {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-ujX .images-SN5 .image-4-nKT {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-ujX .images-SN5 .image-3-Xnq {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-ujX .images-SN5 .image-2-5pM {
+  width: 28.4rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-1xu {
+  width: 28.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-1xu .bg-NYZ {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-1xu .product-name-KCu {
+  width: 12.1rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-1xu .product-name-KCu .product-name-eky {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-1xu .product-name-KCu .sort-description-PyT {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-1xu .images-wEH {
+  width: 28.7rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-1xu .images-wEH .image-8-std {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-1xu .images-wEH .image-7-RfF {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-1xu .images-wEH .image-6-Moo {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-1xu .images-wEH .image-5-Wgh {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-1xu .images-wEH .image-4-GQy {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-1xu .images-wEH .image-3-DLD {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-9zZ {
+  width: 28.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-9zZ .bg-uTw {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-9zZ .product-name-fCD {
+  width: 22.4rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-9zZ .product-name-fCD .product-name-Q9o {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-9zZ .product-name-fCD .sort-description-wvR {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-9zZ .images-tqf {
+  width: 28.7rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-9-9gV .featured-products-9zZ .images-tqf .image-4-qW1 {
+  width: 28.5rem;
+  height: 30.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j {
+  margin-bottom: 7rem;
+  width: 100%;
+  height: 44.6rem;
+  display: flex;
+  column-gap: 3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-7yK {
+  width: 28.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-7yK .bg-sSh {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-7yK .product-name-RUD {
+  width: 13.8rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-7yK .product-name-RUD .product-name-ZaR {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-7yK .product-name-RUD .sort-description-769 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-7yK .images-FTF {
+  width: 28.7rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-7yK .images-FTF .image-8-bGD {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-7yK .images-FTF .image-7-wL5 {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-7yK .images-FTF .image-6-Heq {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-7yK .images-FTF .image-5-qRT {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-7yK .images-FTF .image-4-BkD {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-7yK .images-FTF .image-3-ik9 {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-7yK .images-FTF .image-2-fvH {
+  width: 28.4rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-7yK .images-FTF .image-1-p2V {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-A6M {
+  width: 28.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-A6M .bg-7GV {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-A6M .product-name-enD {
+  width: 13.8rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-A6M .product-name-enD .product-name-Pjo {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-A6M .product-name-enD .sort-description-jof {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-A6M .images-gyo {
+  width: 28.7rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-A6M .images-gyo .image-8-33f {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-A6M .images-gyo .image-7-yi1 {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-A6M .images-gyo .image-6-L2m {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-A6M .images-gyo .image-5-HCu {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-A6M .images-gyo .image-4-dXf {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-A6M .images-gyo .image-3-B3P {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-A6M .images-gyo .image-2-KfP {
+  width: 28.4rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-G4q {
+  width: 28.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-G4q .bg-1YD {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-G4q .product-name-xyF {
+  width: 12.1rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-G4q .product-name-xyF .product-name-URo {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-G4q .product-name-xyF .sort-description-oiy {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-G4q .images-KhK {
+  width: 28.7rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-G4q .images-KhK .image-8-4eu {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-G4q .images-KhK .image-7-Qim {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-G4q .images-KhK .image-6-9RT {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-G4q .images-KhK .image-5-hC5 {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-G4q .images-KhK .image-4-FDb {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-G4q .images-KhK .image-3-nzD {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-8oB {
+  width: 28.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-8oB .bg-gph {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-8oB .product-name-qSh {
+  width: 22.4rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-8oB .product-name-qSh .product-name-xnD {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-8oB .product-name-qSh .sort-description-WYq {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-8oB .images-rch {
+  width: 28.7rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-10-P1j .featured-products-8oB .images-rch .image-4-bKP {
+  width: 28.5rem;
+  height: 30.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-72-jwP {
+  margin: 0rem 42.4rem 0rem 42.2rem;
+  width: calc(100% - 84.6rem);
+  height: 6rem;
+  display: flex;
+  column-gap: 3.8rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-72-jwP .group-68-T6h {
+  width: 6rem;
+  height: 100%;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #b88e2f;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-72-jwP .group-69-8Cq {
+  width: 6rem;
+  height: 100%;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f9f1e7;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-72-jwP .group-70-Dzy {
+  width: 6rem;
+  height: 100%;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f9f1e7;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.shop--gEm .group-83-Lmo .frame-77-dku .frame-72-jwP .group-71-86M {
+  width: 9.8rem;
+  height: 100%;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f9f1e7;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK {
+  box-sizing: border-box;
+  padding-top: 8.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .frame-161-A33 {
+  margin-right: 0.3rem;
+  box-sizing: border-box;
+  padding: 10rem 5.3rem 8.5rem 5.3rem;
+  width: calc(100% - 0.3rem);
+  height: 27rem;
+  background-color: #faf3ea;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .frame-161-A33 .feature-5A1 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.shop--gEm .auto-group-3ncb-cXK .frame-161-A33 .feature-5A1 .frame-5-E2u {
+  margin-right: 20.4rem;
+  box-sizing: border-box;
+  padding-left: 0.3614rem;
+  height: 7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .frame-161-A33 .feature-5A1 .frame-5-E2u .trophy-1-ASM {
+  margin-right: 1.3614rem;
+  width: 5.2772rem;
+  height: 6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .frame-161-A33 .feature-5A1 .frame-5-E2u .text-hhB {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .frame-161-A33 .feature-5A1 .frame-5-E2u .text-hhB .high-quality-fP7 {
+  margin-bottom: 0.2rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #242424;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .frame-161-A33 .feature-5A1 .frame-5-E2u .text-hhB .crafted-from-top-materials-QLh {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .frame-161-A33 .feature-5A1 .frame-19-93P {
+  margin-right: 20.5rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .frame-161-A33 .feature-5A1 .frame-19-93P .guarantee-HvH {
+  margin: 0.594rem 0.1rem 0rem 0rem;
+  width: 6rem;
+  height: 5.8125rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .frame-161-A33 .feature-5A1 .frame-19-93P .auto-group-jdp9-chf {
+  box-sizing: border-box;
+  padding-left: 0.9rem;
+  width: 26.7rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .frame-161-A33 .feature-5A1 .frame-19-93P .auto-group-jdp9-chf .text-AjB {
+  width: 100%;
+  height: 7rem;
+  display: flex;
+  flex-direction: column;
+}
+.shop--gEm .auto-group-3ncb-cXK .frame-161-A33 .feature-5A1 .frame-19-93P .auto-group-jdp9-chf .text-AjB .warranty-protection-viM {
+  margin-bottom: 0.2rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #242424;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .frame-161-A33 .feature-5A1 .frame-19-93P .auto-group-jdp9-chf .text-AjB .over-2-years-TyB {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .frame-161-A33 .feature-5A1 .frame-4-c5P {
+  box-sizing: border-box;
+  padding-left: 0.3529rem;
+  height: 7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .frame-161-A33 .feature-5A1 .frame-4-c5P .customer-support-kSV {
+  margin-right: 1.3529rem;
+  width: 5.2941rem;
+  height: 6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .frame-161-A33 .feature-5A1 .frame-4-c5P .text-tob {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .frame-161-A33 .feature-5A1 .frame-4-c5P .text-tob .support-Fu3 {
+  margin-bottom: 0.2rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #242424;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .frame-161-A33 .feature-5A1 .frame-4-c5P .text-tob .dedicated-support-bi1 {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR {
+  margin-right: 0.3rem;
+  box-sizing: border-box;
+  padding: 4.8rem 9.999rem 3.8rem 10rem;
+  width: calc(100% - 0.3rem);
+  height: 50.5rem;
+  border: solid 0 rgba(0, 0, 0, 0.1700000018);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR .group-45-FXf {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR .group-45-FXf .group-32-QvM {
+  margin: 0rem 10.7rem 4.8rem 0rem;
+  width: calc(100% - 10.7004rem);
+  height: 31.2rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR .group-45-FXf .group-32-QvM .auto-group-gpuz-Xk5 {
+  margin-right: 23.8rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR .group-45-FXf .group-32-QvM .auto-group-gpuz-Xk5 .javaarchi-t4q {
+  margin-bottom: 5rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR .group-45-FXf .group-32-QvM .auto-group-gpuz-Xk5 .smk-media-informatika-pDP {
+  margin-left: 0.2008rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #9f9f9f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR .group-45-FXf .group-32-QvM .group-31-k73 {
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR .group-45-FXf .group-32-QvM .group-31-k73 .group-28-hny {
+  margin-right: 7.2rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR .group-45-FXf .group-32-QvM .group-31-k73 .group-28-hny .group-26-rvm {
+  margin-right: 14.4rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR .group-45-FXf .group-32-QvM .group-31-k73 .group-28-hny .group-26-rvm .links-p6u {
+  margin-bottom: 5.5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #9f9f9f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR .group-45-FXf .group-32-QvM .group-31-k73 .group-28-hny .group-26-rvm .group-24-9ey {
+  margin-left: 0.2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR .group-45-FXf .group-32-QvM .group-31-k73 .group-28-hny .group-26-rvm .group-24-9ey .home-JGy {
+  margin-bottom: 4.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR .group-45-FXf .group-32-QvM .group-31-k73 .group-28-hny .group-26-rvm .group-24-9ey .service-da9 {
+  margin-bottom: 4.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR .group-45-FXf .group-32-QvM .group-31-k73 .group-28-hny .group-26-rvm .group-24-9ey .about-aEV {
+  margin-bottom: 4.5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR .group-45-FXf .group-32-QvM .group-31-k73 .group-28-hny .group-26-rvm .group-24-9ey .contact-Wdw {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR .group-45-FXf .group-32-QvM .group-31-k73 .group-28-hny .group-27-FLd {
+  width: 14rem;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR .group-45-FXf .group-32-QvM .group-31-k73 .group-28-hny .group-27-FLd .help-QjK {
+  margin-bottom: 5.5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #9f9f9f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR .group-45-FXf .group-32-QvM .group-31-k73 .group-28-hny .group-27-FLd .group-25-xF3 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR .group-45-FXf .group-32-QvM .group-31-k73 .group-28-hny .group-27-FLd .group-25-xF3 .payment-options-vBs {
+  margin-bottom: 4.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR .group-45-FXf .group-32-QvM .group-31-k73 .group-28-hny .group-27-FLd .group-25-xF3 .returns-rbK {
+  margin-bottom: 4.5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR .group-45-FXf .group-32-QvM .group-31-k73 .group-28-hny .group-27-FLd .group-25-xF3 .privacy-policies-CfB {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR .group-45-FXf .group-32-QvM .group-31-k73 .group-30-XhT {
+  margin-top: 0.2rem;
+  width: 28.6003rem;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR .group-45-FXf .group-32-QvM .group-31-k73 .group-30-XhT .newsletter-t2D {
+  margin-bottom: 5.3rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #9f9f9f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR .group-45-FXf .group-32-QvM .group-31-k73 .group-30-XhT .group-29-DKP {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR .group-45-FXf .group-32-QvM .group-31-k73 .group-30-XhT .group-29-DKP .auto-group-e7gp-B1K {
+  margin: 0rem 0rem 0.3rem 0rem;
+  width: calc(100% - 0.0003rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR .group-45-FXf .group-32-QvM .group-31-k73 .group-30-XhT .group-29-DKP .auto-group-e7gp-B1K .enter-your-email-address-79s {
+  margin-right: 3.8rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #9f9f9f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR .group-45-FXf .group-32-QvM .group-31-k73 .group-30-XhT .group-29-DKP .auto-group-e7gp-B1K .subscribe-F1B {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR .group-45-FXf .group-32-QvM .group-31-k73 .group-30-XhT .group-29-DKP .auto-group-grzf-ySy {
+  width: 100%;
+  height: 0.1rem;
+  border-top: solid 0.1rem #000000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.shop--gEm .auto-group-3ncb-cXK .footer-jJR .group-45-FXf .group-44-gsB {
+  margin-left: 0rem;
+  box-sizing: border-box;
+  padding: 3.5rem 0.201rem 0rem 0.201rem;
+  width: calc(100% - 0rem);
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border-top: solid 0.1rem #d9d9d9;
+  flex-shrink: 0;
+}
